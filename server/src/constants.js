@@ -1,0 +1,1 @@
+export  const AUT_COOKIE_NAME = 'auth';
